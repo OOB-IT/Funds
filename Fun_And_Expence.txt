@@ -1,4 +1,3 @@
-
 					Fund Records 
 
 
@@ -105,5 +104,4 @@ Morbi client payment 13k
 
 Available fund =  16534
 
-new testing with command
-$ git config credential.helper cache
+16January 2022

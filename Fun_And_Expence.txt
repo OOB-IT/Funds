@@ -114,8 +114,11 @@ Dismis soldering wire and basic  iron
 35
 1000
 
+199 jumper
+
 Travel and purchase expenses 
- Available fund 14969
+ Available fund 14770
+
  
 
 
